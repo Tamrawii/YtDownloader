@@ -18,6 +18,6 @@ It's a free script developed with _Python_ and _Pytube_ library .
    - Type _"3"_ to download a **playlist** (as mp4 format) .
    - Type _"4"_ to download a **playlist** (as mp3 format) .
    - Type _"5"_ to track a video **subtitle** .
-5. Choose a path **(don't write _"Download"_, e.g: _"D:\downloads"_) .
+5. Choose a path **(don't write _"Download"_, e.g: _"D:\downloads"_)** .
 6. Enter the video URL .
 > If you want to repeat you can type _"y"_
